@@ -1,1 +1,1 @@
-# TestBindo
+# Test using the macaca frameworks
